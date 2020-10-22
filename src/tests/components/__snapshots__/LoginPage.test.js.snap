@@ -3,7 +3,19 @@
 exports[`should correctly render LoginPage 1`] = `
 <div>
   <button>
-    Login
+    Login with Google
+  </button>
+  <button>
+    Amir Hossein Jobeiri
+  </button>
+  <button>
+    Amir Hossein Jobeiri
+  </button>
+  <button>
+    Amir Hossein Jobeiri
+  </button>
+  <button>
+    Amir Hossein Jobeiri
   </button>
 </div>
 `;
